@@ -1,0 +1,6 @@
+# The Effect of COVID-19 on the Usage of 'Just Eats Cycles'
+
+In a report with a coursework partner, we investigate how the usage of the bike sharing service ’Just Eat Cycles’ was impacted by the COVID-19 pandemic. We hypothesised that users of ’Just Eat Cycles’ would use this service to visit scenic locations and to exercise, instead of commuting. To address this hypothesis, we first examined how the activity at various stations scattered across the city changed in pre and post-lockdown periods. We expected to see that ’Just Eat Cycles’ trips would not cluster as tightly around the city centre as before. Rather, we would have increased activity outside this area, specifically near scenic locations. Indeed, this was the case. We also hypothesised that the proportion of long tips in the post-lockdown period would increase. After conducting an A/B test with a bootstrap simulation, we accepted this claim with 100% confidence. Similarly, there was an increase of 230.10% of trips starting and ending in the same location, confirming a decreased usage for commuting purposes. This is contrasted to a 58.73% increase in trips overall. 
+
+- All data used in the project originated from Just Eats Cycles, which has since closed down.
+- Any insights and results derived from the above data is the work of myself and a coursework partner.
